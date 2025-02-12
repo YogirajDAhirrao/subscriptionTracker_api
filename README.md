@@ -1,6 +1,6 @@
-# SubDub - Subscription Tracker API
+#  Subscription Tracker API
 
-SubDub is a backend API built using Node.js and Express to help users manage and track their subscriptions efficiently.
+ backend API built using Node.js and Express to help users manage and track their subscriptions efficiently.
 
 ## Features
 - User authentication with JWT
